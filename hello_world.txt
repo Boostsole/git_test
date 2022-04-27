@@ -1,1 +1,2 @@
-hello world im about to commit this
+hello world! this is my first commit.. 
+test test 
